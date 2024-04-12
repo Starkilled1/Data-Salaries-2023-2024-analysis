@@ -23,7 +23,7 @@ The analysis contained within the Jupyter notebooks and accompanying CSV files a
 5. How much does remote work impact salary?
 6. Is there a relationship between company size and country of origin?
 7. What is the distribution of experience levels among data science professionals?
-8. Is there a correlation between job title ratio and company size?
+8. Depending on the size of the company, what do companies tend to look for more?
 
 
 The Jupyter notebooks contain detailed analyses and visualizations that provide insights into these questions. Researchers and analysts are encouraged to explore the provided materials to gain a deeper understanding of salary dynamics in the data science field.
