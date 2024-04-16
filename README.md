@@ -28,6 +28,23 @@ The analysis contained within the Jupyter notebooks and accompanying CSV files a
 
 The Jupyter notebooks contain detailed analyses and visualizations that provide insights into these questions. Researchers and analysts are encouraged to explore the provided materials to gain a deeper understanding of salary dynamics in the data science field.
 
+## Additional Resources:
+
+For further analysis and insights, refer to the Data_salaries_analysis.pdf file in the repository.
+
+## Quick Conclusion:
+
+Based on the analysis:
+
+1. Machine learning roles command the highest average salaries, with data analysis and engineering closely following.
+2. Despite initial disparity, deeper analysis revealed lower wages in European countries compared to the US, with Canadian salaries closer to US levels.
+3. There was a 1.44% decrease in salary from 2023 to 2024. While some countries experienced increases (17.65%), the majority did not have a point of comparison (54.41%).
+4. Company size does not significantly affect salary, with medium-sized companies offering better salaries than larger ones.
+5. Remote and in-site jobs show no significant salary difference, except for 50/50 roles.
+6. Countries with higher business activity tend to have more medium-sized companies, while those with less activity have more small companies.
+7. There is a large growth of work for those with senior experience, with slight variations in the distribution of experience levels among data science professionals, particularly in small companies.
+8. Companies prioritize data-related roles regardless of size, with job titles shifting based on company size and specific data management needs.
+
 ## License:
 
 This dataset is made available by [ai-jobs.net](https://www.ai-jobs.net) Salaries. We extend our gratitude to ai-jobs.net for aggregating and providing access to this valuable information. Researchers and analysts are encouraged to utilize this dataset responsibly and adhere to any licensing terms specified by [ai-jobs.net](https://www.ai-jobs.net). 
